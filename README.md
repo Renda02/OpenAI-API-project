@@ -16,7 +16,7 @@ Simple Python interface
 - An [OpenAI account](https://platform.openai.com/signup) with an API key
 - [`python-dotenv`](https://pypi.org/project/python-dotenv/) to store the OpenAI API key from a `.env` file
 
-## Installation
+
 
 
 
