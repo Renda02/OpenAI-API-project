@@ -19,7 +19,6 @@ Before getting started, make sure you have:
 - [Python](https://www.python.org) version 3.8 or higher
 - `pip` (Python package manager)
 - An [OpenAI account](https://platform.openai.com/signup) with an API key
-- Internet connection
 
 
 ## Installation
