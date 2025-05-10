@@ -19,12 +19,12 @@ client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 model = "gpt-4o"  # You can change this to gpt-3.5-turbo or others
 
 # Your input text
-text = "Chakalaka"
+dish_name = "Chakalaka"
 
 # Format the chat messages
 messages = [
     {"role": "system", "content": "You are a World Class Chef"},
-    {"role": "user", "content": f"Show me the ingredients, recipe and preparation method of this dish:{text}. Organize your answer in clear and concise bullet points."}
+    {"role": "user", "content": f"Show me the ingredients, recipe and preparation method of this dish:{dish_name}. Organize your answer in clear and concise bullet points."}
 ]
 
 # Send the request
