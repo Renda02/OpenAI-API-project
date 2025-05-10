@@ -1,10 +1,3 @@
-'''Week 0
-
-This files includes week 0 exercises from Lonely Octopus Bootcamp
-
-In this project, you will learn how to get started
-
-'''
 import os
 from openai import OpenAI
 from dotenv import load_dotenv
