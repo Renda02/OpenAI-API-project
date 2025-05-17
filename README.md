@@ -28,7 +28,7 @@ Before getting started, make sure you have:
 Download the files from GitHub or use this command:
 
 `
-git clone https://github.com/yourusername/recipe-generator.git
+git clone https://github.com/yourusername/openai-recipe-generator.git
 cd recipe-generator`
 
 
